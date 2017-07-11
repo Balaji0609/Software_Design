@@ -1,0 +1,4 @@
+edu\asu\cse564\samples\crud\restws\ApplicationConfig.class
+edu\asu\cse564\samples\crud\restws\StudentResource.class
+edu\asu\cse564\samples\crud\jaxb\model\Student.class
+edu\asu\cse564\samples\crud\jaxb\utils\Converter.class
